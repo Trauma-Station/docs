@@ -16,14 +16,14 @@ This *does* pertain to any information posted in the game admin Discord chats, f
 
 This policy also covers and prohibits internal leaks. An example of an internal leak would be an Admin A sharing information about Admin B's application vote/discussion with Admin B, if Admin B doesn't have direct access to all the information that was being shared by Admin A. Generally, "leak" means to share the information in whole or in part with someone who does not have direct access.
 #### 1.4 **Ban Appeals**
-Ban appeals are covered by the [Banning Policy](./banning-policy.md).
+Ban appeals are covered by the [Banning Policy](./Banning_Policy.md).
 
 ## 2. Game-adminning
 Rules specific to adminning a round of SS14.
 #### 2.1 **Do not ever process a case you are/were a part of.**
 Even if you've started adminning after dying, do not process a case you were involved in. You may ask head admins for permission to do this if there are no other staff online. Otherwise, ahelp yourself and get the other staff to handle it.
 #### 2.2 Follow the outlined banning policy.
-Bans and ban appeals are covered by the [Banning Policy](./banning-policy.md).
+Bans and ban appeals are covered by the [Banning Policy](./Banning_Policy.md).
 #### 2.3 **Deadmin when you play the game.**
 Don't misuse your game admin tools to metagame, this is pretty self-explanatory.
 Do not use your admin powers to message players whilst IC. If something happens that breaks the rules, you should engage with admins as a normal player via the regular ahelp command.
@@ -42,7 +42,7 @@ Events should **NOT** be ran without atleast one game admin who is uninvolved wi
 #### 2.6 **Do not interfere unless you are needed.**
 If it looks like the situation will be able to resolve itself, or escalated naturally; and nothing actually actionable has happened, then there is no reason to interfere. However notes should be applied in relation to admin policy 2.8.
 #### 2.7 **Check with other admins before enacting bans outside of guidelines.**
-Bans and ban appeals are covered by the [Banning Policy](./banning-policy.md). Administrators who place bans outside of the guidelines are required to be able to justify the decision to the admin team.
+Bans and ban appeals are covered by the [Banning Policy](./Banning_Policy.md). Administrators who place bans outside of the guidelines are required to be able to justify the decision to the admin team.
 #### 2.8 **Use notes as consideration for punishment, and give notes frequently**
 If a player is AHelped for some behavior, but this behavior skirts the rules and is not explicitly bannable, you should always give them a note for it. When handling AHelps, you should always check their notes before interrogation or applying punishment. If a user is noted to have been skirting the rules multiple times previously in their notes, you may apply a ban for this behavior.
 
